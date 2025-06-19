@@ -1,0 +1,6 @@
+#CUDA_VISIBLE_DEVICES=0 python train.py --name "SSCM_res2net_small_fixLoss" --config "configs/default.yaml" --resume "./checkpoints/SSCM_res2net_small_fixLoss/SSCM_res2net_small_fixLoss_checkpoint_62400.pt"
+#CUDA_VISIBLE_DEVICES=0 python train.py --name "SSCM_res2net_small_fixLoss" --config "configs/default.yaml"
+#CUDA_LAUNCH_BLOCKING=1 CUDA_VISIBLE_DEVICES=0 python train.py --name "SSCM_crop" --config "configs/default.yaml"
+#CUDA_VISIBLE_DEVICES=0 python train.py --name "SSCM_crop_v2_noMask" --config "configs/default.yaml"
+#CUDA_VISIBLE_DEVICES=0 python train_depth.py --name "SSC_full" --config "configs/default.yaml" --resume "./checkpoints/SSD_v1_ruber2525/SSD_v1_ruber2525_checkpoint_0003.pt"
+CUDA_VISIBLE_DEVICES=0 python train_depth.py --name "SSD2" --config "configs/default.yaml" 

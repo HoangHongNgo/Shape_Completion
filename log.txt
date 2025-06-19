@@ -1,0 +1,243 @@
+Training Loss: 0.4053, L_ss: 0.3085, L_cm: 0.0019
+Valid Loss: 0.1235, L_ss: 0.1163, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0001.pt
+Training Loss: 0.0394, L_ss: 0.0320, L_cm: 0.0001
+Valid Loss: 0.1558, L_ss: 0.1493, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0002.pt
+Training Loss: 0.0315, L_ss: 0.0249, L_cm: 0.0001
+Valid Loss: 0.1033, L_ss: 0.0976, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0003.pt
+Training Loss: 0.0217, L_ss: 0.0161, L_cm: 0.0001
+Valid Loss: 0.1015, L_ss: 0.0965, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0004.pt
+Training Loss: 0.0259, L_ss: 0.0206, L_cm: 0.0001
+Valid Loss: 0.1103, L_ss: 0.1054, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0005.pt
+Training Loss: 0.0165, L_ss: 0.0118, L_cm: 0.0001
+Valid Loss: 0.1124, L_ss: 0.1072, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0006.pt
+Training Loss: 0.0149, L_ss: 0.0107, L_cm: 0.0001
+Valid Loss: 0.1066, L_ss: 0.1021, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0007.pt
+Training Loss: 0.0139, L_ss: 0.0099, L_cm: 0.0001
+Valid Loss: 0.1059, L_ss: 0.1013, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0008.pt
+Training Loss: 0.0131, L_ss: 0.0096, L_cm: 0.0001
+Valid Loss: 0.1131, L_ss: 0.1090, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0009.pt
+Training Loss: 0.0124, L_ss: 0.0091, L_cm: 0.0001
+Valid Loss: 0.1096, L_ss: 0.1036, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0010.pt
+Training Loss: 0.0515, L_ss: 0.0471, L_cm: 0.0001
+Valid Loss: 0.1248, L_ss: 0.1203, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0011.pt
+Training Loss: 0.0173, L_ss: 0.0142, L_cm: 0.0001
+Valid Loss: 0.1240, L_ss: 0.1201, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0012.pt
+Training Loss: 0.0140, L_ss: 0.0111, L_cm: 0.0001
+Valid Loss: 0.1159, L_ss: 0.1111, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0013.pt
+Training Loss: 0.0125, L_ss: 0.0099, L_cm: 0.0001
+Valid Loss: 0.1123, L_ss: 0.1057, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0014.pt
+Training Loss: 0.0115, L_ss: 0.0089, L_cm: 0.0001
+Valid Loss: 0.1214, L_ss: 0.1176, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0015.pt
+Training Loss: 0.0107, L_ss: 0.0082, L_cm: 0.0000
+Valid Loss: 0.1112, L_ss: 0.1051, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0016.pt
+Training Loss: 0.0101, L_ss: 0.0078, L_cm: 0.0000
+Valid Loss: 0.1270, L_ss: 0.1224, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0017.pt
+Training Loss: 0.0229, L_ss: 0.0202, L_cm: 0.0001
+Valid Loss: 0.1155, L_ss: 0.1099, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0018.pt
+Training Loss: 0.0105, L_ss: 0.0083, L_cm: 0.0000
+Valid Loss: 0.1261, L_ss: 0.1219, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0019.pt
+Training Loss: 0.0095, L_ss: 0.0074, L_cm: 0.0000
+Valid Loss: 0.1217, L_ss: 0.1181, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0020.pt
+Training Loss: 0.0078, L_ss: 0.0063, L_cm: 0.0000
+Valid Loss: 0.1253, L_ss: 0.1217, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0021.pt
+Training Loss: 0.0074, L_ss: 0.0060, L_cm: 0.0000
+Valid Loss: 0.1274, L_ss: 0.1237, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0022.pt
+Training Loss: 0.0072, L_ss: 0.0059, L_cm: 0.0000
+Valid Loss: 0.1302, L_ss: 0.1265, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0023.pt
+Training Loss: 0.0071, L_ss: 0.0058, L_cm: 0.0000
+Valid Loss: 0.1319, L_ss: 0.1282, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0024.pt
+Training Loss: 0.0070, L_ss: 0.0057, L_cm: 0.0000
+Valid Loss: 0.1321, L_ss: 0.1283, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0025.pt
+Training Loss: 0.0068, L_ss: 0.0055, L_cm: 0.0000
+Valid Loss: 0.1350, L_ss: 0.1312, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0026.pt
+Training Loss: 0.0067, L_ss: 0.0055, L_cm: 0.0000
+Valid Loss: 0.1362, L_ss: 0.1325, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0027.pt
+Training Loss: 0.0065, L_ss: 0.0053, L_cm: 0.0000
+Valid Loss: 0.1383, L_ss: 0.1346, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0028.pt
+Training Loss: 0.0064, L_ss: 0.0052, L_cm: 0.0000
+Valid Loss: 0.1395, L_ss: 0.1354, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0029.pt
+Training Loss: 0.0063, L_ss: 0.0052, L_cm: 0.0000
+Valid Loss: 0.1390, L_ss: 0.1352, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0030.pt
+Training Loss: 0.0062, L_ss: 0.0051, L_cm: 0.0000
+Valid Loss: 0.1406, L_ss: 0.1367, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0031.pt
+Training Loss: 0.0061, L_ss: 0.0050, L_cm: 0.0000
+Valid Loss: 0.1401, L_ss: 0.1363, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0032.pt
+Training Loss: 0.0060, L_ss: 0.0049, L_cm: 0.0000
+Valid Loss: 0.1432, L_ss: 0.1394, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0033.pt
+Training Loss: 0.0059, L_ss: 0.0048, L_cm: 0.0000
+Valid Loss: 0.1439, L_ss: 0.1401, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0034.pt
+Training Loss: 0.0058, L_ss: 0.0048, L_cm: 0.0000
+Valid Loss: 0.1451, L_ss: 0.1412, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0035.pt
+Training Loss: 0.0058, L_ss: 0.0047, L_cm: 0.0000
+Valid Loss: 0.1477, L_ss: 0.1431, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0036.pt
+Training Loss: 0.0057, L_ss: 0.0046, L_cm: 0.0000
+Valid Loss: 0.1465, L_ss: 0.1427, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0037.pt
+Training Loss: 0.0056, L_ss: 0.0045, L_cm: 0.0000
+Valid Loss: 0.1459, L_ss: 0.1420, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0038.pt
+Training Loss: 0.0055, L_ss: 0.0045, L_cm: 0.0000
+Valid Loss: 0.1507, L_ss: 0.1468, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0039.pt
+Training Loss: 0.0054, L_ss: 0.0044, L_cm: 0.0000
+Valid Loss: 0.1499, L_ss: 0.1459, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0040.pt
+Training Loss: 0.0052, L_ss: 0.0043, L_cm: 0.0000
+Valid Loss: 0.1509, L_ss: 0.1470, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0041.pt
+Training Loss: 0.0051, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1503, L_ss: 0.1465, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0042.pt
+Training Loss: 0.0051, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1515, L_ss: 0.1477, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0043.pt
+Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1521, L_ss: 0.1482, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0044.pt
+Training Loss: 0.0051, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1524, L_ss: 0.1484, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0045.pt
+Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1538, L_ss: 0.1499, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0046.pt
+Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1538, L_ss: 0.1499, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0047.pt
+Training Loss: 0.0050, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1537, L_ss: 0.1498, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0048.pt
+Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1540, L_ss: 0.1501, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0049.pt
+Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
+Valid Loss: 0.1546, L_ss: 0.1507, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0050.pt
+Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1539, L_ss: 0.1500, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0051.pt
+Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1531, L_ss: 0.1491, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0052.pt
+Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1552, L_ss: 0.1513, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0053.pt
+Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1560, L_ss: 0.1521, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0054.pt
+Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1535, L_ss: 0.1495, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0055.pt
+Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1571, L_ss: 0.1531, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0056.pt
+Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1565, L_ss: 0.1525, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0057.pt
+Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1556, L_ss: 0.1516, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0058.pt
+Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1573, L_ss: 0.1533, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0059.pt
+Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1566, L_ss: 0.1526, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0060.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1573, L_ss: 0.1534, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0061.pt
+Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
+Valid Loss: 0.1562, L_ss: 0.1523, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0062.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1560, L_ss: 0.1521, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0063.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1549, L_ss: 0.1509, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0064.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1564, L_ss: 0.1525, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0065.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1563, L_ss: 0.1524, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0066.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1556, L_ss: 0.1517, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0067.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1560, L_ss: 0.1520, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0068.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1556, L_ss: 0.1517, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0069.pt
+Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
+Valid Loss: 0.1566, L_ss: 0.1526, L_cm: 0.0001
+SMSCM_norm_begin_re_checkpoint_0070.pt
+
+Found existing installation: torch 2.5.1
+Uninstalling torch-2.5.1:
+  Would remove:
+    /home/dsp520/anaconda3/bin/convert-caffe2-to-onnx
+    /home/dsp520/anaconda3/bin/convert-onnx-to-caffe2
+    /home/dsp520/anaconda3/bin/torchfrtrace
+    /home/dsp520/anaconda3/bin/torchrun
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/functorch/*
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torch-2.5.1.dist-info/*
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torch/*
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchgen/*
+Proceed (Y/n)? y
+  Successfully uninstalled torch-2.5.1
+Found existing installation: torchvision 0.14.1+cu117
+Uninstalling torchvision-0.14.1+cu117:
+  Would remove:
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision-0.14.1+cu117.dist-info/*
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libcudart.782fcab0.so.11.0
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libjpeg.ceea7512.so.62
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libnvjpeg.9b083ad7.so.11
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libpng16.7f72a3c5.so.16
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libz.1328edc3.so.1
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision/*
+Proceed (Y/n)? y
+  Successfully uninstalled torchvision-0.14.1+cu117
+Found existing installation: torchaudio 0.13.1+cu117
+Uninstalling torchaudio-0.13.1+cu117:
+  Would remove:
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchaudio-0.13.1+cu117.dist-info/*
+    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchaudio/*
+Proceed (Y/n)? y
+  Successfully uninstalled torchaudio-0.13.1+cu117
