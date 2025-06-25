@@ -43,6 +43,14 @@ class SS_Loss(nn.Module):
 
         return in_loss
     
+class PC_Error(nn.Module):
+    def __init__(self):
+        super().__init__()
+
+    def forward(self, input, target):
+        mse = rear_pt_eval(input, target)
+        return mse
+    
 
 def rear_pt_eval(cloud1, cloud2):
     """

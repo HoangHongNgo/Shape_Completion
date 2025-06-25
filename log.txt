@@ -1,243 +1,386 @@
-Training Loss: 0.4053, L_ss: 0.3085, L_cm: 0.0019
-Valid Loss: 0.1235, L_ss: 0.1163, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0001.pt
-Training Loss: 0.0394, L_ss: 0.0320, L_cm: 0.0001
-Valid Loss: 0.1558, L_ss: 0.1493, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0002.pt
-Training Loss: 0.0315, L_ss: 0.0249, L_cm: 0.0001
-Valid Loss: 0.1033, L_ss: 0.0976, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0003.pt
-Training Loss: 0.0217, L_ss: 0.0161, L_cm: 0.0001
-Valid Loss: 0.1015, L_ss: 0.0965, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0004.pt
-Training Loss: 0.0259, L_ss: 0.0206, L_cm: 0.0001
-Valid Loss: 0.1103, L_ss: 0.1054, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0005.pt
-Training Loss: 0.0165, L_ss: 0.0118, L_cm: 0.0001
-Valid Loss: 0.1124, L_ss: 0.1072, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0006.pt
-Training Loss: 0.0149, L_ss: 0.0107, L_cm: 0.0001
-Valid Loss: 0.1066, L_ss: 0.1021, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0007.pt
-Training Loss: 0.0139, L_ss: 0.0099, L_cm: 0.0001
-Valid Loss: 0.1059, L_ss: 0.1013, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0008.pt
-Training Loss: 0.0131, L_ss: 0.0096, L_cm: 0.0001
-Valid Loss: 0.1131, L_ss: 0.1090, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0009.pt
-Training Loss: 0.0124, L_ss: 0.0091, L_cm: 0.0001
-Valid Loss: 0.1096, L_ss: 0.1036, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0010.pt
-Training Loss: 0.0515, L_ss: 0.0471, L_cm: 0.0001
-Valid Loss: 0.1248, L_ss: 0.1203, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0011.pt
-Training Loss: 0.0173, L_ss: 0.0142, L_cm: 0.0001
-Valid Loss: 0.1240, L_ss: 0.1201, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0012.pt
-Training Loss: 0.0140, L_ss: 0.0111, L_cm: 0.0001
-Valid Loss: 0.1159, L_ss: 0.1111, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0013.pt
-Training Loss: 0.0125, L_ss: 0.0099, L_cm: 0.0001
-Valid Loss: 0.1123, L_ss: 0.1057, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0014.pt
-Training Loss: 0.0115, L_ss: 0.0089, L_cm: 0.0001
-Valid Loss: 0.1214, L_ss: 0.1176, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0015.pt
-Training Loss: 0.0107, L_ss: 0.0082, L_cm: 0.0000
-Valid Loss: 0.1112, L_ss: 0.1051, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0016.pt
-Training Loss: 0.0101, L_ss: 0.0078, L_cm: 0.0000
-Valid Loss: 0.1270, L_ss: 0.1224, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0017.pt
-Training Loss: 0.0229, L_ss: 0.0202, L_cm: 0.0001
-Valid Loss: 0.1155, L_ss: 0.1099, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0018.pt
-Training Loss: 0.0105, L_ss: 0.0083, L_cm: 0.0000
-Valid Loss: 0.1261, L_ss: 0.1219, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0019.pt
-Training Loss: 0.0095, L_ss: 0.0074, L_cm: 0.0000
-Valid Loss: 0.1217, L_ss: 0.1181, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0020.pt
-Training Loss: 0.0078, L_ss: 0.0063, L_cm: 0.0000
-Valid Loss: 0.1253, L_ss: 0.1217, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0021.pt
-Training Loss: 0.0074, L_ss: 0.0060, L_cm: 0.0000
-Valid Loss: 0.1274, L_ss: 0.1237, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0022.pt
-Training Loss: 0.0072, L_ss: 0.0059, L_cm: 0.0000
-Valid Loss: 0.1302, L_ss: 0.1265, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0023.pt
-Training Loss: 0.0071, L_ss: 0.0058, L_cm: 0.0000
-Valid Loss: 0.1319, L_ss: 0.1282, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0024.pt
-Training Loss: 0.0070, L_ss: 0.0057, L_cm: 0.0000
-Valid Loss: 0.1321, L_ss: 0.1283, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0025.pt
-Training Loss: 0.0068, L_ss: 0.0055, L_cm: 0.0000
-Valid Loss: 0.1350, L_ss: 0.1312, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0026.pt
-Training Loss: 0.0067, L_ss: 0.0055, L_cm: 0.0000
-Valid Loss: 0.1362, L_ss: 0.1325, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0027.pt
-Training Loss: 0.0065, L_ss: 0.0053, L_cm: 0.0000
-Valid Loss: 0.1383, L_ss: 0.1346, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0028.pt
-Training Loss: 0.0064, L_ss: 0.0052, L_cm: 0.0000
-Valid Loss: 0.1395, L_ss: 0.1354, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0029.pt
-Training Loss: 0.0063, L_ss: 0.0052, L_cm: 0.0000
-Valid Loss: 0.1390, L_ss: 0.1352, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0030.pt
-Training Loss: 0.0062, L_ss: 0.0051, L_cm: 0.0000
-Valid Loss: 0.1406, L_ss: 0.1367, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0031.pt
-Training Loss: 0.0061, L_ss: 0.0050, L_cm: 0.0000
-Valid Loss: 0.1401, L_ss: 0.1363, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0032.pt
-Training Loss: 0.0060, L_ss: 0.0049, L_cm: 0.0000
-Valid Loss: 0.1432, L_ss: 0.1394, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0033.pt
-Training Loss: 0.0059, L_ss: 0.0048, L_cm: 0.0000
-Valid Loss: 0.1439, L_ss: 0.1401, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0034.pt
-Training Loss: 0.0058, L_ss: 0.0048, L_cm: 0.0000
-Valid Loss: 0.1451, L_ss: 0.1412, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0035.pt
-Training Loss: 0.0058, L_ss: 0.0047, L_cm: 0.0000
-Valid Loss: 0.1477, L_ss: 0.1431, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0036.pt
-Training Loss: 0.0057, L_ss: 0.0046, L_cm: 0.0000
-Valid Loss: 0.1465, L_ss: 0.1427, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0037.pt
-Training Loss: 0.0056, L_ss: 0.0045, L_cm: 0.0000
-Valid Loss: 0.1459, L_ss: 0.1420, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0038.pt
-Training Loss: 0.0055, L_ss: 0.0045, L_cm: 0.0000
-Valid Loss: 0.1507, L_ss: 0.1468, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0039.pt
-Training Loss: 0.0054, L_ss: 0.0044, L_cm: 0.0000
-Valid Loss: 0.1499, L_ss: 0.1459, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0040.pt
-Training Loss: 0.0052, L_ss: 0.0043, L_cm: 0.0000
-Valid Loss: 0.1509, L_ss: 0.1470, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0041.pt
-Training Loss: 0.0051, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1503, L_ss: 0.1465, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0042.pt
-Training Loss: 0.0051, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1515, L_ss: 0.1477, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0043.pt
-Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1521, L_ss: 0.1482, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0044.pt
-Training Loss: 0.0051, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1524, L_ss: 0.1484, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0045.pt
-Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1538, L_ss: 0.1499, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0046.pt
-Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1538, L_ss: 0.1499, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0047.pt
-Training Loss: 0.0050, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1537, L_ss: 0.1498, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0048.pt
-Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1540, L_ss: 0.1501, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0049.pt
-Training Loss: 0.0050, L_ss: 0.0042, L_cm: 0.0000
-Valid Loss: 0.1546, L_ss: 0.1507, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0050.pt
-Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1539, L_ss: 0.1500, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0051.pt
-Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1531, L_ss: 0.1491, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0052.pt
-Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1552, L_ss: 0.1513, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0053.pt
-Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1560, L_ss: 0.1521, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0054.pt
-Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1535, L_ss: 0.1495, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0055.pt
-Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1571, L_ss: 0.1531, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0056.pt
-Training Loss: 0.0049, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1565, L_ss: 0.1525, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0057.pt
-Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1556, L_ss: 0.1516, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0058.pt
-Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1573, L_ss: 0.1533, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0059.pt
-Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1566, L_ss: 0.1526, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0060.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1573, L_ss: 0.1534, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0061.pt
-Training Loss: 0.0048, L_ss: 0.0041, L_cm: 0.0000
-Valid Loss: 0.1562, L_ss: 0.1523, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0062.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1560, L_ss: 0.1521, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0063.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1549, L_ss: 0.1509, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0064.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1564, L_ss: 0.1525, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0065.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1563, L_ss: 0.1524, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0066.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1556, L_ss: 0.1517, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0067.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1560, L_ss: 0.1520, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0068.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1556, L_ss: 0.1517, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0069.pt
-Training Loss: 0.0048, L_ss: 0.0040, L_cm: 0.0000
-Valid Loss: 0.1566, L_ss: 0.1526, L_cm: 0.0001
-SMSCM_norm_begin_re_checkpoint_0070.pt
+Solving environment: | 
+Found conflicts! Looking for incompatible packages.
+This can take several minutes.  Press CTRL-C to abort.
+failed                                                                                                                                                            \  
 
-Found existing installation: torch 2.5.1
-Uninstalling torch-2.5.1:
-  Would remove:
-    /home/dsp520/anaconda3/bin/convert-caffe2-to-onnx
-    /home/dsp520/anaconda3/bin/convert-onnx-to-caffe2
-    /home/dsp520/anaconda3/bin/torchfrtrace
-    /home/dsp520/anaconda3/bin/torchrun
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/functorch/*
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torch-2.5.1.dist-info/*
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torch/*
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchgen/*
-Proceed (Y/n)? y
-  Successfully uninstalled torch-2.5.1
-Found existing installation: torchvision 0.14.1+cu117
-Uninstalling torchvision-0.14.1+cu117:
-  Would remove:
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision-0.14.1+cu117.dist-info/*
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libcudart.782fcab0.so.11.0
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libjpeg.ceea7512.so.62
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libnvjpeg.9b083ad7.so.11
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libpng16.7f72a3c5.so.16
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision.libs/libz.1328edc3.so.1
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchvision/*
-Proceed (Y/n)? y
-  Successfully uninstalled torchvision-0.14.1+cu117
-Found existing installation: torchaudio 0.13.1+cu117
-Uninstalling torchaudio-0.13.1+cu117:
-  Would remove:
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchaudio-0.13.1+cu117.dist-info/*
-    /home/dsp520/anaconda3/lib/python3.10/site-packages/torchaudio/*
-Proceed (Y/n)? y
-  Successfully uninstalled torchaudio-0.13.1+cu117
+UnsatisfiableError: The following specifications were found to be incompatible with each other:
+
+Output in format: Requested package -> Available versions
+
+Package libmpdec conflicts for:
+open3d=0.18.0 -> python[version='>=3.13,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+matplotlib -> python[version='>=3.13,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+pip -> python[version='>=3.9,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+cython -> python[version='>=3.13,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+pandas -> python[version='>=3.13,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+numpy -> python[version='>=3.13,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+scipy -> python[version='>=3.13,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+pillow -> python[version='>=3.13,<3.14.0a0'] -> libmpdec[version='>=4.0.0,<5.0a0']
+ninja -> python -> libmpdec[version='>=4.0.0,<5.0a0']
+
+Package _openmp_mutex conflicts for:
+cudatoolkit=11.3 -> libgcc-ng[version='>=9.3.0'] -> _openmp_mutex[version='>=4.5']
+ninja -> libgcc-ng[version='>=7.5.0'] -> _openmp_mutex[version='>=4.5']
+pandas -> libgcc-ng[version='>=11.2.0'] -> _openmp_mutex[version='>=4.5']
+cython -> libgcc-ng[version='>=11.2.0'] -> _openmp_mutex[version='>=4.5']
+torchaudio=0.10.0 -> pytorch==1.10.0 -> _openmp_mutex[version='>=4.5']
+numpy -> blas=[build=openblas] -> _openmp_mutex[version='*|>=4.5',build=*_llvm]
+python=3.8 -> libgcc-ng[version='>=11.2.0'] -> _openmp_mutex[version='>=4.5']
+matplotlib -> libgcc-ng[version='>=7.3.0'] -> _openmp_mutex[version='>=4.5']
+pillow -> libgcc-ng[version='>=11.2.0'] -> _openmp_mutex[version='>=4.5']
+open3d=0.18.0 -> _openmp_mutex[version='>=4.5']
+pytorch=1.10.0 -> blas=[build=mkl] -> _openmp_mutex[version='*|>=5.1',build=*_llvm]
+scipy -> libgcc-ng[version='>=11.2.0'] -> _openmp_mutex[version='*|>=4.5',build=*_llvm]
+pytorch=1.10.0 -> _openmp_mutex[version='>=4.5']
+torchvision=0.11.1 -> pytorch==1.10.0 -> _openmp_mutex[version='>=4.5']
+
+Package libgcc conflicts for:
+ninja -> libgcc[version='>=13']
+cython -> libgcc[version='>=13']
+pip -> python[version='>=3.9,<3.14.0a0'] -> libgcc[version='>=13']
+ninja -> libgcc-ng[version='>=7.5.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+pandas -> libgcc-ng[version='>=11.2.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+pytorch=1.10.0 -> blas=[build=mkl] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0|>=12|>=13',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+python=3.8 -> libgcc-ng[version='>=11.2.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+pillow -> libgcc-ng[version='>=11.2.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+torchaudio=0.10.0 -> numpy[version='>=1.11'] -> libgcc[version='>=13']
+scipy -> libgcc-ng[version='>=11.2.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0|>=15.1.0|>=14.3.0|>=14.2.0|>=14.1.0|>=13.4.0|>=13.3.0|>=12.4.0|>=14|>=12',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+matplotlib -> matplotlib-base[version='>=3.10.0,<3.10.1.0a0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0|>=13',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+open3d=0.18.0 -> liblapacke[version='>=3.9.0,<4.0a0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0|>=12',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+numpy -> libgcc[version='>=13']
+torchvision=0.11.1 -> ffmpeg[version='>=4.2'] -> libgcc[version='>=13']
+pandas -> libgcc[version='>=13']
+pillow -> libgcc[version='>=13']
+python=3.8 -> libgcc[version='>=13']
+cython -> libgcc-ng[version='>=11.2.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+numpy -> libgcc-ng[version='>=11.2.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0|>=14|>=15.1.0|>=14.3.0|>=14.2.0|>=14.1.0|>=13.4.0|>=13.3.0|>=12.4.0|>=12',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+cudatoolkit=11.3 -> libgcc-ng[version='>=9.3.0'] -> libgcc[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0',build='h767d61c_2|h767d61c_2|h77fa898_1|h767d61c_2|h77fa898_1|h77fa898_1|h767d61c_2|h77fa898_1']
+open3d=0.18.0 -> libgcc[version='>=13']
+scipy -> libgcc[version='>=13']
+
+Package pypy3.7 conflicts for:
+scipy -> pypy3.7[version='>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+pillow -> pypy3.7[version='>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+cython -> python[version='>=3.7,<3.8.0a0'] -> pypy3.7[version='7.3.*|7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*']
+pillow -> python[version='>=3.7,<3.8.0a0'] -> pypy3.7[version='7.3.*|7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*']
+matplotlib -> python[version='>=3.7,<3.8.0a0'] -> pypy3.7[version='7.3.*|7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*']
+torchaudio=0.10.0 -> numpy[version='>=1.11'] -> pypy3.7[version='7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*|>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+pip -> setuptools -> pypy3.7[version='7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*|>=7.3.3|>=7.3.5|>=7.3.7']
+open3d=0.18.0 -> numpy -> pypy3.7[version='>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+numpy -> python[version='>=3.7,<3.8.0a0'] -> pypy3.7[version='7.3.*|7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*']
+scipy -> python[version='>=3.7,<3.8.0a0'] -> pypy3.7[version='7.3.*|7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*']
+pytorch=1.10.0 -> python[version='>=3.7,<3.8.0a0'] -> pypy3.7[version='7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*|>=7.3.7|>=7.3.3|>=7.3.5|>=7.3.4']
+matplotlib -> pypy3.7[version='>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+cython -> pypy3.7[version='>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+pandas -> pypy3.7[version='>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+numpy -> pypy3.7[version='>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+torchvision=0.11.1 -> numpy[version='>=1.11'] -> pypy3.7[version='7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*|>=7.3.3|>=7.3.4|>=7.3.5|>=7.3.7']
+ninja -> python -> pypy3.7[version='7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*']
+pandas -> python[version='>=3.7,<3.8.0a0'] -> pypy3.7[version='7.3.*|7.3.3.*|7.3.4.*|7.3.5.*|7.3.7.*']
+
+Package packaging conflicts for:
+pandas -> numexpr[version='>=2.8.4'] -> packaging
+open3d=0.18.0 -> plotly -> packaging
+pip -> wheel -> packaging[version='>=20.2']
+matplotlib -> matplotlib-base[version='>=3.10.0,<3.10.1.0a0'] -> packaging[version='>=20.0']
+scipy -> pooch -> packaging[version='>=20.0']
+
+Package nomkl conflicts for:
+pandas -> numexpr[version='>=2.8.4'] -> nomkl
+scipy -> openblas[version='>=0.3.3,<0.3.4.0a0'] -> nomkl==3.0=0
+numpy -> openblas[version='>=0.3.3,<0.3.4.0a0'] -> nomkl==3.0=0
+
+Package pytorch conflicts for:
+pytorch=1.10.0
+torchaudio=0.10.0 -> pytorch==1.10.0
+torchvision=0.11.1 -> pytorch==1.10.0
+
+Package pytz conflicts for:
+open3d=0.18.0 -> plotly -> pytz
+matplotlib -> pytz
+pandas -> pytz[version='>=2017.2|>=2017.3|>=2020.1|>=2020.1,<2024.2']
+
+Package openblas-devel conflicts for:
+scipy -> openblas[version='>=0.3.3,<0.3.4.0a0'] -> openblas-devel[version='0.3.3|>=0.2.20,<0.2.21.0a0',build='2|3|1']
+numpy -> openblas[version='>=0.3.3,<0.3.4.0a0'] -> openblas-devel[version='0.3.10|0.3.13|0.3.17|0.3.18|0.3.20|0.3.20|0.3.21|0.3.29|0.3.3|>=0.2.20,<0.2.21.0a0|0.3.6|0.3.6|0.3.6|>=0.3.2,<0.3.3.0a0',build='2|h06a4308_1|h06a4308_0|h06a4308_1|2|3|1|ha39b09d_0|h06a4308_0|h06a4308_0|h06a4308_0|0|1|0']
+
+Package ca-certificates conflicts for:
+cython -> python[version='>=2.7,<2.8.0a0'] -> ca-certificates
+ninja -> python -> ca-certificates
+pillow -> python[version='>=2.7,<2.8.0a0'] -> ca-certificates
+python=3.8 -> openssl[version='>=3.0.15,<4.0a0'] -> ca-certificates
+scipy -> python[version='>=2.7,<2.8.0a0'] -> ca-certificates
+pip -> python[version='>=2.7,<2.8.0a0'] -> ca-certificates
+pandas -> python[version='>=2.7,<2.8.0a0'] -> ca-certificates
+matplotlib -> python[version='>=2.7,<2.8.0a0'] -> ca-certificates
+numpy -> python[version='>=2.7,<2.8.0a0'] -> ca-certificates
+
+Package setuptools conflicts for:
+pandas -> setuptools[version='<60.0.0']
+matplotlib -> setuptools
+pandas -> numexpr[version='>=2.8.0'] -> setuptools
+cython -> setuptools
+torchvision=0.11.1 -> pytorch==1.10.0 -> setuptools
+pytorch=1.10.0 -> setuptools
+python=3.8 -> pip -> setuptools
+open3d=0.18.0 -> dash -> setuptools
+torchaudio=0.10.0 -> pytorch==1.10.0 -> setuptools
+pip -> setuptools
+
+Package gmp conflicts for:
+scipy -> libgcc -> gmp[version='>=4.2']
+torchvision=0.11.1 -> ffmpeg[version='>=4.2'] -> gmp[version='>=6.1.2,<7.0a0|>=6.1.2|>=6.3.0,<7.0a0|>=6.2.1,<7.0a0|>=6.2.0,<7.0a0']
+
+Package certifi conflicts for:
+pip -> setuptools -> certifi[version='>=2016.09|>=2016.9.26']
+matplotlib -> matplotlib-base[version='>=3.9.2,<3.9.3.0a0'] -> certifi[version='>=2016.09|>=2016.9.26|>=2020.06.20']
+pytorch=1.10.0 -> setuptools -> certifi[version='>=2016.09|>=2016.9.26']
+cython -> setuptools -> certifi[version='>=2016.09|>=2016.9.26']
+pandas -> setuptools[version='<60.0.0'] -> certifi[version='>=2016.09|>=2016.9.26']
+
+Package _libgcc_mutex conflicts for:
+numpy -> libgcc-ng[version='>=11.2.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+pillow -> libgcc-ng[version='>=11.2.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+scipy -> libgcc-ng[version='>=11.2.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+cython -> libgcc-ng[version='>=11.2.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+matplotlib -> libgcc-ng[version='>=7.3.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+cudatoolkit=11.3 -> libgcc-ng[version='>=9.3.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+pandas -> libgcc-ng[version='>=11.2.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+open3d=0.18.0 -> _openmp_mutex[version='>=4.5'] -> _libgcc_mutex==0.1[build='conda_forge|main']
+python=3.8 -> libgcc-ng[version='>=11.2.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+pytorch=1.10.0 -> _openmp_mutex[version='>=4.5'] -> _libgcc_mutex[version='*|0.1',build='conda_forge|main|main']
+ninja -> libgcc-ng[version='>=7.5.0'] -> _libgcc_mutex[version='*|0.1|0.1',build='conda_forge|main']
+
+Package ninja conflicts for:
+torchvision=0.11.1 -> pytorch==1.10.0 -> ninja
+torchaudio=0.10.0 -> pytorch==1.10.0 -> ninja
+ninja
+pytorch=1.10.0 -> ninja
+
+Package libgomp conflicts for:
+open3d=0.18.0 -> _openmp_mutex[version='>=4.5'] -> libgomp[version='>=7.3.0|>=7.5.0']
+pytorch=1.10.0 -> _openmp_mutex[version='>=4.5'] -> libgomp[version='>=7.3.0|>=7.5.0']
+
+Package numpy conflicts for:
+torchvision=0.11.1 -> numpy[version='>=1.11']
+matplotlib -> matplotlib-base[version='>=3.10.0,<3.10.1.0a0'] -> numpy[version='<2.0a0|>=1.16.6,<2.0a0|>=1.19,<3|>=1.21,<3|>=1.23,<3.0a0|>=1.23|>=1.23.5,<2.0a0|>=1.26.4,<2.0a0|>=1.22.4,<2.0a0|>=1.21.6,<2.0a0|>=1.21|>=1.21,<2|>=1.26.0,<2.0a0|>=1.21.5,<2.0a0|>=1.20|>=1.20,<2.0a0|>=1.20.3,<2.0a0|>=1.22.3,<2.0a0|>=1.19.2,<2.0a0|>=1.19|>=1.23.4,<2.0a0|>=1.17|>=1.19.5,<2.0a0|>=1.21.2,<2.0a0|>=1.21.4,<2.0a0|>=1.18.5,<2.0a0|>=1.17.5,<2.0a0|>=1.15.4,<2.0a0|>=1.16.5,<2.0a0|>=1.19.4,<2.0a0|>=1.11.3,<2.0a0|>=1.9.3,<2.0a0']
+matplotlib -> numpy[version='1.10.*|1.11.*|>=1.14.6,<2.0a0']
+numpy
+torchaudio=0.10.0 -> numpy[version='>=1.11']
+pandas -> bottleneck[version='>=1.3.6'] -> numpy[version='>=1.16.4,<2.0a0|>=1.21.3,<2.0a0|>=1.23.0|>=2.1.3,<3.0a0']
+pytorch=1.10.0 -> numpy[version='>=1.18.5,<2.0a0|>=1.19.5,<2.0a0']
+torchvision=0.11.1 -> pytorch==1.10.0 -> numpy[version='>=1.18.5,<2.0a0|>=1.19.5,<2.0a0']
+open3d=0.18.0 -> numpy
+scipy -> numpy[version='1.10.*|1.11.*|1.12.*|1.13.*|<2.3|<2.5|>=1.11.3,<2.0a0|>=1.14.6,<2.0a0|>=1.16,<1.23|>=1.19,<1.25.0|>=1.19,<1.26.0|>=1.19.5,<1.27.0|>=1.21.5,<1.28|>=1.22.3,<1.29|>=1.22.4,<2.3|>=1.23.5,<2.3|>=1.23.5,<2.5|>=1.23.5,<1.29|>=1.26.4,<1.29|>=1.22.4,<1.29|>=1.26.2,<1.28|>=1.23.5,<1.28|>=1.26.0,<1.28|>=1.23,<1.27.0|>=1.21,<1.27.0|>=1.21,<1.26.0|>=1.23,<1.26.0|>=1.21,<1.25.0|>=1.21,<1.23|>=1.16.6,<1.23.0|>=1.21.2,<1.23.0|>=1.16.6,<2.0a0|>=1.15.1,<2.0a0|>=1.9.3,<2.0a0|>=1.21,<3|>=1.23.5|>=1.19,<3|<2.4|>=1.23.5,<2.0a0|>=1.22.4,<1.28|>=1.22.4,<2.0a0|>=1.26.4,<1.28|>=1.26.4,<2.0a0|>=1.26.3,<1.28|>=1.26.3,<2.0a0|>=1.26.0,<2.0a0|>=1.21.6,<1.28|>=1.21.6,<2.0a0|>=1.21.6,<1.27|>=1.23.5,<1.27|>=1.20.3,<1.27|>=1.20.3,<2.0a0|>=1.21.6,<1.26|>=1.23.4,<1.26|>=1.23.4,<2.0a0|>=1.20.3,<1.26|>=1.19.5,<2.0a0|>=1.20.3,<1.25|>=1.21.6,<1.25|>=1.18.5,<2.0a0|>=1.21.5,<2.0a0|>=1.20.3,<1.23|>=1.21.6,<1.23|>=1.21.4,<2.0a0|>=1.17.5,<2.0a0|>=1.19.4,<2.0a0|>=1.16.5,<2.0a0|>=1.19.2,<2.0a0|>=1.18.1,<2.0a0|>=1.9|>=1.11']
+pandas -> numpy[version='1.10.*|1.11.*|1.12.*|1.13.*|>=1.11|>=1.11.*|>=1.11.3,<2.0a0|>=1.12.1,<2.0a0|>=1.13.3,<2.0a0|>=1.14.6,<2.0a0|>=1.15.4,<2.0a0|>=1.16,<2.0a0|>=1.20.3,<2.0a0|>=1.21,<3|>=1.22.4,<3|>=1.23.2,<3|>=1.26.0,<3|>=2.1,<3|>=1.22.3,<2.0a0|>=1.23.5,<2.0a0|>=1.26.4,<2.0a0|>=1.21.5,<2.0a0|>=1.26.2,<2.0a0|>=1.26.0,<2.0a0|>=1.23,<2.0a0|>=1.21,<2.0a0|>=1.19.2,<2.0a0|>=1.21.2,<2.0a0|>=1.20.2,<2.0a0|>=1.16.6,<2.0a0|>=1.9.3,<2.0a0|>=1.9|>=1.19,<3|>=1.22.4|>=1.22.4,<2.0a0|>=1.26.3,<2.0a0|>=1.21.6,<2.0a0|>=1.23.4,<2.0a0|>=1.19.5,<2.0a0|>=1.18.5,<2.0a0|>=1.21.4,<2.0a0|>=1.17.5,<2.0a0|>=1.19.4,<2.0a0|>=1.16.5,<2.0a0|>=1.18.4,<2.0a0|>=1.18.1,<2.0a0|>=1.9.*|>=1.8|>=1.7']
+torchaudio=0.10.0 -> pytorch==1.10.0 -> numpy[version='>=1.18.5,<2.0a0|>=1.19.5,<2.0a0']
+
+Package xorg-libxau conflicts for:
+open3d=0.18.0 -> libxcb[version='>=1.17.0,<2.0a0'] -> xorg-libxau[version='>=1.0.11,<2.0a0|>=1.0.12,<2.0a0']
+pillow -> libxcb[version='>=1.17.0,<2.0a0'] -> xorg-libxau[version='>=1.0.11,<2.0a0|>=1.0.12,<2.0a0']
+
+Package six conflicts for:
+matplotlib -> cycler[version='>=0.10'] -> six[version='>=1.5']
+scipy -> mkl-service[version='>=2.3.0,<3.0a0'] -> six
+open3d=0.18.0 -> plotly -> six[version='1.15.0|>=1.15.0']
+pandas -> python-dateutil[version='>=2.8.2'] -> six[version='>=1.5']
+numpy -> mkl-service[version='>=2.3.0,<3.0a0'] -> six
+
+Package libjpeg-turbo conflicts for:
+open3d=0.18.0 -> libjpeg-turbo[version='>=3.0.0,<4.0a0']
+open3d=0.18.0 -> qt6-main[version='>=6.7.3,<6.9.0a0'] -> libjpeg-turbo[version='>=2.1.5.1,<3.0a0|>=3.1.0,<4.0a0']
+
+Package typing_extensions conflicts for:
+torchvision=0.11.1 -> pytorch==1.10.0 -> typing_extensions
+matplotlib -> kiwisolver -> typing_extensions
+torchaudio=0.10.0 -> pytorch==1.10.0 -> typing_extensions
+open3d=0.18.0 -> dash -> typing_extensions[version='>=4.1.1']
+pytorch=1.10.0 -> typing_extensions
+
+Package libxcb conflicts for:
+matplotlib -> pyside6[version='>=6.7.2'] -> libxcb[version='>=1.15,<2.0a0']
+open3d=0.18.0 -> qt6-main[version='>=6.7.3,<6.9.0a0'] -> libxcb[version='>=1.15,<1.16.0a0|>=1.16,<1.17.0a0|>=1.16,<2.0.0a0']
+torchvision=0.11.1 -> ffmpeg[version='>=4.2'] -> libxcb[version='>=1.13,<1.14.0a0|>=1.15,<1.16.0a0|>=1.16,<1.17.0a0|>=1.17.0,<2.0a0|>=1.16,<2.0.0a0']
+pillow -> libxcb[version='>=1.13,<1.14.0a0|>=1.15,<1.16.0a0|>=1.16,<2.0.0a0|>=1.17.0,<2.0a0']
+open3d=0.18.0 -> libxcb[version='>=1.17.0,<2.0a0']
+python=3.8 -> xorg-libx11[version='>=1.8.9,<2.0a0'] -> libxcb[version='>=1.15,<1.16.0a0|>=1.16,<2.0.0a0|>=1.17.0,<2.0a0']
+
+Package pip conflicts for:
+torchaudio=0.10.0 -> python[version='>=3.6,<3.7.0a0'] -> pip
+pandas -> python[version='>=3.11,<3.12.0a0'] -> pip
+ninja -> python -> pip
+matplotlib -> python[version='>=3.13,<3.14.0a0'] -> pip
+python=3.8 -> pip
+scipy -> python[version='>=3.11,<3.12.0a0'] -> pip
+pip
+torchvision=0.11.1 -> python[version='>=3.6,<3.7.0a0'] -> pip
+pillow -> python[version='>=3.12,<3.13.0a0'] -> pip
+pytorch=1.10.0 -> python[version='>=3.7,<3.8.0a0'] -> pip
+open3d=0.18.0 -> python[version='>=3.9,<3.10.0a0'] -> pip
+cython -> python[version='>=3.10,<3.11.0a0'] -> pip
+
+Package gdbm conflicts for:
+cython -> pypy3.9[version='>=7.3.15'] -> gdbm[version='>=1.18,<1.19.0a0']
+scipy -> pypy3.9[version='>=7.3.13'] -> gdbm[version='>=1.18,<1.19.0a0']
+python=3.8 -> pypy3.8=7.3.11 -> gdbm[version='>=1.18,<1.19.0a0']
+pillow -> pypy3.9[version='>=7.3.15'] -> gdbm[version='>=1.18,<1.19.0a0']
+numpy -> pypy3.9[version='>=7.3.15'] -> gdbm[version='>=1.18,<1.19.0a0']
+pandas -> pypy3.9[version='>=7.3.15'] -> gdbm[version='>=1.18,<1.19.0a0']
+ninja -> pypy3.6[version='>=7.3.1'] -> gdbm[version='>=1.18,<1.19.0a0']
+matplotlib -> pypy3.9[version='>=7.3.15'] -> gdbm[version='>=1.18,<1.19.0a0']
+
+Package pillow conflicts for:
+matplotlib -> matplotlib-base[version='>=3.10.0,<3.10.1.0a0'] -> pillow[version='>=6.2.0|>=8']
+torchvision=0.11.1 -> pillow[version='>=5.3.0']
+pillow
+
+Package libxml2 conflicts for:
+matplotlib -> pyside6[version='>=6.7.2'] -> libxml2[version='>=2.12.7,<2.14.0a0|>=2.13.5,<2.14.0a0|>=2.13.8,<2.14.0a0|>=2.13.7,<2.14.0a0|>=2.13.6,<2.14.0a0']
+open3d=0.18.0 -> qt6-main[version='>=6.7.3,<6.9.0a0'] -> libxml2[version='>=2.10.3,<2.14.0a0|>=2.10.4,<2.14.0a0|>=2.11.4,<2.14.0a0|>=2.11.5,<2.14.0a0|>=2.11.6,<2.14.0a0|>=2.12.7,<2.14.0a0|>=2.13.5,<2.14.0a0|>=2.13.6,<2.14.0a0|>=2.13.7,<2.14.0a0|>=2.13.8,<2.14.0a0|>=2.9.14,<2.10.0a0|>=2.9.14,<2.14.0a0|>=2.9.12,<2.14.0a0']
+torchvision=0.11.1 -> ffmpeg[version='>=4.2'] -> libxml2[version='>=2.10.3,<2.14.0a0|>=2.10.4,<2.11.0a0|>=2.13.5,<2.14.0a0|>=2.13.8,<2.14.0a0|>=2.13.7,<2.14.0a0|>=2.13.6,<2.14.0a0|>=2.13.4,<2.14.0a0|>=2.12.7,<2.14.0a0|>=2.12.6,<2.14.0a0|>=2.12.5,<2.14.0a0|>=2.12.4,<2.14.0a0|>=2.12.3,<2.14.0a0|>=2.12.2,<2.14.0a0|>=2.12.1,<2.14.0a0|>=2.11.6,<2.14.0a0|>=2.11.5,<2.14.0a0|>=2.11.4,<2.14.0a0|>=2.11.3,<2.14.0a0|>=2.10.4,<2.14.0a0|>=2.9.14,<2.14.0a0|>=2.9.13,<2.14.0a0|>=2.9.12,<2.14.0a0']
+
+Package freetype conflicts for:
+pillow -> freetype[version='2.5.*|2.6.*|2.7|2.7.*|2.7|2.8.*|2.8.1|2.8.1.*|>=2.10.3,<3.0a0|>=2.10.4,<3.0a0|>=2.9.1,<3.0a0|>=2.8,<2.9.0a0|>=2.12.1,<3.0a0|>=2.8.1,<2.9.0a0']
+matplotlib -> freetype[version='2.6.*|>=2.8,<2.9.0a0|>=2.9.1,<3.0a0']
+matplotlib -> matplotlib-base[version='>=3.10.0,<3.10.1.0a0'] -> freetype[version='>=2.10.2,<3.0a0|>=2.10|>=2.10.4,<3.0a0|>=2.12.1,<3.0a0|>=2.3|>=2.11.0,<3.0a0']
+open3d=0.18.0 -> qt6-main[version='>=6.7.3,<6.9.0a0'] -> freetype[version='>=2.10.4,<3.0a0|>=2.12.1,<3.0a0|>=2.13.3,<3.0a0']
+torchvision=0.11.1 -> ffmpeg[version='>=4.2'] -> freetype[version='>=2.10.2,<3.0a0|>=2.10.3,<3.0a0|>=2.10.4,<3.0a0|>=2.9.1,<3.0a0|>=2.13.3,<3.0a0|>=2.12.1,<3.0a0']
+
+Package libstdcxx conflicts for:
+ninja -> libstdcxx[version='>=13']
+ninja -> libstdcxx-ng[version='>=7.5.0'] -> libstdcxx[version='12.4.0|12.4.0|13.3.0|13.3.0|13.4.0|14.1.0|14.2.0|14.2.0|14.3.0|15.1.0',build='hc0a3c3a_1|hc0a3c3a_1|hc0a3c3a_1|h8f9b012_2|h8f9b012_2|h8f9b012_2|hc0a3c3a_1|h8f9b012_2']
+
+Package openblas conflicts for:
+open3d=0.18.0 -> numpy -> openblas[version='0.2.18.*|0.2.18|0.2.18.*|0.2.19|0.2.19.*|0.2.20|0.2.20.*|>=0.2.20,<0.2.21.0a0|>=0.3.3,<0.3.4.0a0|>=0.2.15']
+numpy -> blas=[build=openblas] -> openblas[version='0.3.5.*|>=0.3.6,<0.3.7.0a0']
+scipy -> openblas[version='0.2.18.*|0.2.18|0.2.18.*|0.2.19|0.2.19.*|0.2.20|0.2.20.*|>=0.2.20,<0.2.21.0a0|>=0.3.3,<0.3.4.0a0']
+matplotlib -> numpy[version='>=1.14.6,<2.0a0'] -> openblas[version='0.2.18.*|0.2.18|0.2.18.*|0.2.19|0.2.19.*|0.2.20|0.2.20.*|>=0.2.20,<0.2.21.0a0|>=0.3.3,<0.3.4.0a0|>=0.2.15']
+torchaudio=0.10.0 -> numpy[version='>=1.11'] -> openblas[version='0.2.18.*|0.2.18|0.2.18.*|0.2.19|0.2.19.*|0.2.20|0.2.20.*|>=0.2.20,<0.2.21.0a0|>=0.3.3,<0.3.4.0a0|>=0.2.15']
+scipy -> blas=[build=openblas] -> openblas[version='0.3.5.*|>=0.2.15|>=0.3.6,<0.3.7.0a0']
+numpy -> openblas[version='0.2.18.*|0.2.18|0.2.18.*|0.2.19|0.2.19.*|0.2.20|0.2.20.*|>=0.2.20,<0.2.21.0a0|>=0.3.3,<0.3.4.0a0|>=0.2.15']
+pandas -> numpy[version='>=1.16,<2.0a0'] -> openblas[version='0.2.18.*|0.2.18|0.2.18.*|0.2.19|0.2.19.*|0.2.20|0.2.20.*|>=0.2.20,<0.2.21.0a0|>=0.3.3,<0.3.4.0a0|>=0.2.15']
+torchvision=0.11.1 -> numpy[version='>=1.11'] -> openblas[version='0.2.18.*|0.2.18|0.2.18.*|0.2.19|0.2.19.*|0.2.20|0.2.20.*|>=0.2.20,<0.2.21.0a0|>=0.3.3,<0.3.4.0a0|>=0.2.15']
+
+Package ninja-base conflicts for:
+pytorch=1.10.0 -> ninja -> ninja-base[version='1.10.2|1.12.1',build='hdb19cb5_0|hd09550d_5']
+ninja -> ninja-base[version='1.10.2|1.12.1',build='hdb19cb5_0|hd09550d_5']
+
+Package requests conflicts for:
+open3d=0.18.0 -> dash -> requests
+scipy -> pooch -> requests[version='>=2.19.0']
+
+Package zstd conflicts for:
+matplotlib -> pyside6[version='>=6.7.2'] -> zstd[version='>=1.5.2,<1.6.0a0']
+pillow -> libtiff[version='>=4.7.0,<5.0a0'] -> zstd[version='>=1.3.3,<1.3.4.0a0|>=1.3.7,<1.3.8.0a0|>=1.4.4,<1.5.0a0|>=1.4|>=1.4.5,<1.5.0a0|>=1.5.2,<1.6.0a0|>=1.5.7,<1.6.0a0|>=1.5.6,<1.6.0a0|>=1.5.5,<1.6.0a0|>=1.5.0,<1.6.0a0|>=1.4.9,<1.5.0a0|>=1.4.4,<1.5.0.0a0|>=1.4.3,<1.5.0.0a0|>=1.4.0,<1.5.0.0a0']
+open3d=0.18.0 -> libcurl[version='>=8.10.1,<9.0a0'] -> zstd[version='>=1.5.2,<1.6.0a0|>=1.5.7,<1.6.0a0|>=1.5.6,<1.6.0a0|>=1.5.5,<1.6.0a0']
+
+Package libstdcxx-ng conflicts for:
+ninja -> ninja-base==1.12.1=hdb19cb5_0 -> libstdcxx-ng[version='>=11.2.0']
+ninja -> libstdcxx-ng[version='>=10.3.0|>=12|>=7.2.0|>=7.3.0|>=7.5.0|>=9.4.0|>=9.3.0|>=4.9']
+
+Package qt-main conflicts for:
+open3d=0.18.0 -> vtk-base=[build=qt*] -> qt-main[version='>=5.15.3,<5.16.0a0|>=5.15.4,<5.16.0a0|>=5.15.6,<5.16.0a0|>=5.15.8,<5.16.0a0']
+matplotlib -> pyqt[version='>=5'] -> qt-main[version='5.15.*|>=5.15.2,<5.16.0a0|>=5.15.15,<5.16.0a0|>=5.15.8,<5.16.0a0|>=5.15.6,<5.16.0a0|>=5.15.4,<5.16.0a0|>=5.15.3,<5.16.0a0']
+
+Package libgcc-ng conflicts for:
+ninja -> libgcc-ng[version='>=10.3.0|>=12|>=7.2.0|>=7.3.0|>=7.5.0|>=9.4.0|>=9.3.0']
+ninja -> ninja-base==1.12.1=hdb19cb5_0 -> libgcc-ng[version='11.4.0|11.4.0|11.4.0|11.4.0|11.4.0|11.4.0|12.3.0|12.3.0|12.3.0|12.3.0|12.3.0|12.3.0|12.4.0|13.2.0|13.2.0|13.2.0|13.2.0|13.2.0|13.2.0|13.3.0|14.1.0|>=11.2.0|>=4.9',build='h77fa898_8|h77fa898_9|h77fa898_11|h77fa898_12|h77fa898_8|h77fa898_9|h77fa898_11|h77fa898_8|h77fa898_9|h77fa898_11|h77fa898_12|h77fa898_13|h77fa898_0|h77fa898_10|h77fa898_0|h77fa898_13|h77fa898_12|h77fa898_10|h77fa898_13|h77fa898_10']
+
+Package llvm-openmp conflicts for:
+numpy -> blas=[build=openblas] -> llvm-openmp[version='>=10.0.0|>=11.0.0|>=11.0.1|>=11.1.0|>=12.0.1|>=13.0.1|>=14.0.4|>=16.0.5|>=16.0.6|>=17.0.2|>=17.0.5|>=17.0.6|>=18.1.2|>=18.1.8|>=19.1.2|>=19.1.5|>=9.0.1|>=20.1.7|>=19.1.7|>=17.0.3|>=16.0.1|>=19.1.3|>=10.0.1|>=20.1.3|>=20.1.2|>=18.1.5|>=18.1.3|>=15.0.7|>=15.0.6|>=14.0.3']
+open3d=0.18.0 -> _openmp_mutex[version='>=4.5'] -> llvm-openmp[version='>=9.0.1']
+scipy -> mkl[version='>=2023.1.0,<2024.0a0'] -> llvm-openmp[version='>=10.0.0|>=11.0.0|>=11.0.1|>=11.1.0|>=12.0.1|>=13.0.1|>=14.0.4|>=16.0.1|>=16.0.6|>=17.0.3|>=19.1.5|>=19.1.2|>=18.1.8|>=18.1.2|>=17.0.6|>=17.0.5|>=17.0.2|>=16.0.5|>=9.0.1|>=20.1.7|>=19.1.7|>=19.1.3|>=10.0.1']
+pytorch=1.10.0 -> blas=[build=mkl] -> llvm-openmp[version='>=10.0.0|>=11.0.0|>=11.0.1|>=11.1.0|>=12.0.1|>=13.0.1|>=14.0.4|>=17.0.2|>=17.0.5|>=17.0.6|>=18.1.2|>=18.1.8|>=19.1.2|>=19.1.5|>=20.1.3|>=20.1.2|>=19.1.7|>=19.1.3|>=18.1.5|>=18.1.3|>=17.0.3|>=16.0.6|>=16.0.1|>=15.0.7|>=15.0.6|>=14.0.3|>=9.0.1']
+
+Package qt6-main conflicts for:
+open3d=0.18.0 -> qt6-main[version='>=6.7.2,<6.9.0a0|>=6.7.3,<6.9.0a0']
+open3d=0.18.0 -> vtk-base=[build=qt*] -> qt6-main[version='>=6.7.1,<6.9.0a0|>=6.8.1,<6.9.0a0|>=6.8.2,<6.9.0a0']
+
+Package future conflicts for:
+pytorch=1.10.0 -> future
+open3d=0.18.0 -> dash -> future
+torchaudio=0.10.0 -> pytorch==1.10.0 -> future
+torchvision=0.11.1 -> pytorch==1.10.0 -> future
+
+Package cudatoolkit conflicts for:
+pytorch=1.10.0 -> cudnn[version='>=7.6.5.32,<8.0a0'] -> cudatoolkit[version='10.0|10.0.*|10.1|10.1.*|9.2|9.2.*|>=11.2,<12.0a0|11.*|10.2.*']
+pytorch=1.10.0 -> cudatoolkit[version='10.2|10.2.*|>=10.2,<10.3|>=11.1,<11.2|>=11.3,<11.4|11.1|11.1.*|11.0|11.0.*|>=11.2,<12']
+torchaudio=0.10.0 -> cudatoolkit[version='>=10.2,<10.3|>=11.1,<11.2|>=11.3,<11.4']
+torchvision=0.11.1 -> pytorch==1.10.0 -> cudatoolkit[version='10.2|10.2.*|11.1|11.1.*|11.0|11.0.*|>=11.2,<12']
+torchaudio=0.10.0 -> pytorch==1.10.0 -> cudatoolkit[version='10.2|10.2.*|11.1|11.1.*|11.0|11.0.*|>=11.2,<12']
+cudatoolkit=11.3
+torchvision=0.11.1 -> cudatoolkit[version='>=10.2,<10.3|>=11.1,<11.2|>=11.3,<11.4']
+
+Package tbb-devel conflicts for:
+numpy -> mkl -> tbb-devel=2022
+pytorch=1.10.0 -> mkl[version='>=2018'] -> tbb-devel=2022
+open3d=0.18.0 -> vtk-base=[build=qt*] -> tbb-devel
+
+Package blas-devel conflicts for:
+pytorch=1.10.0 -> blas=[build=mkl] -> blas-devel==3.9.0[build='7_mkl|8_mkl|10_mkl|11_linux64_mkl|13_linux64_mkl|14_linux64_mkl|15_linux64_mkl|16_linux64_mkl|20_linux64_mkl|21_linux64_mkl|24_linux64_mkl|25_linux64_mkl|26_linux64_mkl|28*_mkl|30*_mkl|32*_mkl|31*_mkl|29*_mkl|27*_mkl|23_linux64_mkl|22_linux64_mkl|19_linux64_mkl|12_linux64_mkl|9_mkl']
+numpy -> blas=[build=openblas] -> blas-devel==3.9.0[build='7_mkl|10_mkl|13_linux64_mkl|14_linux64_mkl|15_linux64_mkl|16_linux64_mkl|20_linux64_mkl|22_linux64_mkl|25_linux64_mkl|26_linux64_mkl|27*_mkl|29*_mkl|30*_mkl|32*_mkl|10_openblas|13_linux64_openblas|16_linux64_openblas|17_linux64_openblas|18_linux64_openblas|19_linux64_openblas|22_linux64_openblas|24_linux64_openblas|25_linux64_openblas|26_linux64_openblas|32*_openblas|31*_openblas|30*_openblas|29*_openblas|28*_openblas|27*_openblas|23_linux64_openblas|21_linux64_openblas|20_linux64_openblas|15_linux64_openblas|14_linux64_openblas|12_linux64_openblas|11_linux64_openblas|9_openblas|8_openblas|7_openblas|31*_mkl|28*_mkl|24_linux64_mkl|23_linux64_mkl|21_linux64_mkl|19_linux64_mkl|12_linux64_mkl|11_linux64_mkl|9_mkl|8_mkl']
+scipy -> blas=[build=openblas] -> blas-devel==3.9.0[build='7_mkl|10_mkl|13_linux64_mkl|14_linux64_mkl|15_linux64_mkl|16_linux64_mkl|20_linux64_mkl|22_linux64_mkl|25_linux64_mkl|26_linux64_mkl|27*_mkl|29*_mkl|30*_mkl|32*_mkl|10_openblas|13_linux64_openblas|16_linux64_openblas|17_linux64_openblas|18_linux64_openblas|19_linux64_openblas|22_linux64_openblas|24_linux64_openblas|25_linux64_openblas|26_linux64_openblas|32*_openblas|31*_openblas|30*_openblas|29*_openblas|28*_openblas|27*_openblas|23_linux64_openblas|21_linux64_openblas|20_linux64_openblas|15_linux64_openblas|14_linux64_openblas|12_linux64_openblas|11_linux64_openblas|9_openblas|8_openblas|7_openblas|31*_mkl|28*_mkl|24_linux64_mkl|23_linux64_mkl|21_linux64_mkl|19_linux64_mkl|12_linux64_mkl|11_linux64_mkl|9_mkl|8_mkl']
+
+Package python-dateutil conflicts for:
+matplotlib -> python-dateutil
+pandas -> python-dateutil[version='>=2.5.*|>=2.6.1|>=2.7.3|>=2.8.1|>=2.8.2']
+matplotlib -> matplotlib-base[version='>=3.10.0,<3.10.1.0a0'] -> python-dateutil[version='>=2.1|>=2.7']
+
+Package jpeg conflicts for:
+open3d=0.18.0 -> vtk=[build=qt*] -> jpeg[version='>=9d,<10a|>=9e,<10a']
+torchvision=0.11.1 -> jpeg
+pillow -> jpeg[version='8.*|9.*|>=9b,<10a|>=9e,<10a|>=9d,<10a|>=9c,<10a']
+torchvision=0.11.1 -> pillow[version='>=5.3.0'] -> jpeg[version='>=9b,<10a|>=9e,<10a|>=9d,<10a|>=9c,<10a']
+
+Package xorg-xorgproto conflicts for:
+open3d=0.18.0 -> xorg-libxdamage[version='>=1.1.6,<2.0a0'] -> xorg-xorgproto[version='>=2024.1,<2025.0a0']
+python=3.8 -> xorg-libx11[version='>=1.8.9,<2.0a0'] -> xorg-xorgproto[version='>=2024.1|>=2024.1,<2025.0a0|>=7.0.25']
+
+Package pypy3.6 conflicts for:
+ninja -> pypy3.6[version='>=7.3.1']
+ninja -> python -> pypy3.6[version='7.3.*|7.3.0.*|7.3.1.*|7.3.2.*|7.3.3.*']
+
+Package harfbuzz conflicts for:
+open3d=0.18.0 -> qt6-main[version='>=6.7.3,<6.9.0a0'] -> harfbuzz[version='>=10.1.0|>=10.2.0|>=10.4.0|>=11.0.0,<12.0a0|>=11.0.1|>=9.0.0|>=8.5.0']
+torchvision=0.11.1 -> ffmpeg[version='>=4.2'] -> harfbuzz[version='>=10.1.0|>=10.2.0|>=10.2.0,<11.0a0|>=4.3.0,<5.0a0|>=11.0.1|>=11.0.0,<12.0a0|>=10.4.0|>=10.3.0|>=9.0.0|>=8.5.0|>=8.4.0|>=8.3.0']
+
+Package wheel conflicts for:
+pip -> wheel
+python=3.8 -> pip -> wheel
+
+Package libpng conflicts for:
+open3d=0.18.0 -> qt6-main[version='>=6.7.3,<6.9.0a0'] -> libpng[version='>=1.6.37,<1.7.0a0|>=1.6.38,<1.7.0a0|>=1.6.39,<1.7.0a0|>=1.6.46,<1.7.0a0|>=1.6.47,<1.7.0a0']
+open3d=0.18.0 -> libpng[version='>=1.6.43,<1.7.0a0|>=1.6.44,<1.7.0a0']
+
+Package lcms2 conflicts for:
+torchvision=0.11.1 -> pillow[version='>=5.3.0'] -> lcms2[version='>=2.11,<3.0a0|>=2.12,<3.0a0|>=2.16,<3.0a0|>=2.17,<3.0a0|>=2.15,<3.0a0|>=2.14,<3.0a0']
+pillow -> lcms2[version='>=2.11,<3.0a0|>=2.12,<3.0a0|>=2.16,<3.0a0|>=2.17,<3.0a0|>=2.15,<3.0a0|>=2.14,<3.0a0']The following specifications were found to be incompatible with your system:
+
+  - feature:/linux-64::__cuda==12.7=0
+  - feature:/linux-64::__glibc==2.31=0
+  - feature:|@/linux-64::__cuda==12.7=0
+  - feature:|@/linux-64::__glibc==2.31=0
+  - cudatoolkit=11.3 -> __glibc[version='>=2.17,<3.0.a0']
+  - cudatoolkit=11.3 -> libgcc-ng[version='>=9.3.0'] -> __glibc[version='>=2.17']
+  - cython -> __glibc[version='>=2.17,<3.0.a0']
+  - cython -> libgcc-ng[version='>=11.2.0'] -> __glibc[version='>=2.17']
+  - matplotlib -> matplotlib-base[version='>=3.10.0,<3.10.1.0a0'] -> __glibc[version='>=2.17|>=2.17,<3.0.a0']
+  - ninja -> __glibc[version='>=2.17,<3.0.a0']
+  - ninja -> libgcc-ng[version='>=7.5.0'] -> __glibc[version='>=2.17']
+  - open3d=0.18.0 -> __glibc[version='>=2.17,<3.0.a0']
+  - pandas -> __glibc[version='>=2.17,<3.0.a0']
+  - pandas -> libgcc-ng[version='>=11.2.0'] -> __glibc[version='>=2.17']
+  - pillow -> __glibc[version='>=2.17,<3.0.a0']
+  - pillow -> libgcc-ng[version='>=11.2.0'] -> __glibc[version='>=2.17']
+  - pip -> python[version='>=3.9,<3.14.0a0'] -> __glibc[version='>=2.17,<3.0.a0']
+  - python=3.8 -> __glibc[version='>=2.17,<3.0.a0']
+  - python=3.8 -> libgcc-ng[version='>=11.2.0'] -> __glibc[version='>=2.17']
+  - pytorch=1.10.0 -> __glibc[version='>=2.17|>=2.17,<3.0.a0']
+  - pytorch=1.10.0 -> mkl[version='>=2018'] -> __glibc[version='>=2.28,<3.0.a0']
+  - pytorch=1.10.0 -> nccl[version='>=2.11.4.1,<3.0a0'] -> __cuda[version='10.2|10.2.*|11.0|11.0.*|>=11.2,<12|11.1|11.1.*']
+  - scipy -> __glibc[version='>=2.17,<3.0.a0']
+  - scipy -> libgcc-ng[version='>=11.2.0'] -> __glibc[version='>=2.17']
+  - torchaudio=0.10.0 -> cudatoolkit[version='>=11.1,<11.2'] -> __glibc[version='>=2.17|>=2.17,<3.0.a0']
+  - torchvision=0.11.1 -> cudatoolkit[version='>=11.1,<11.2'] -> __glibc[version='>=2.17|>=2.17,<3.0.a0']
+
+Your installed version is: 2.31

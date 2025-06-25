@@ -375,17 +375,22 @@ def DFormer_Large(drop_path_rate=0.1, **kwargs):  # 82.1
     return model
 
 def main():
-    # Dummy input: batch size = 1, 2 channels (1 RGB + 1 depth), 224x224 resolution
+    # Dummy input: batch size = 1, 2 channels (1 SM, 1 Depth), 224x224 resolution
     B, C, H, W = 1, 2, 224, 224
     dummy_input = torch.randn(B, C, H, W)
 
-    # Tách RGB và Depth
-    rgb = dummy_input[:, 0, :, :]  # RGB input (3 channels)
-    depth = dummy_input[:, 1, :, :]  # Depth input (1 channel)
+    rgb = dummy_input[:, 0, :, :].unsqueeze(1)  # SM input (1 channel1)
+    depth = dummy_input[:, 1, :, :].unsqueeze(1)  # Depth input (1 channel)
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Khởi tạo model
     model = DFormer_Tiny()
+    model.to(device)
     model.eval()
+
+    rgb = rgb.to(device)
+    depth = depth.to(device)
 
     # Chạy forward
     with torch.no_grad():

@@ -13,20 +13,20 @@ class _MatrixDecomposition2DBase(nn.Module):
     def __init__(self, args=dict()):
         super().__init__()
 
+        # Thiết lập các tham số cấu hình (nếu không có thì dùng giá trị mặc định)
         self.spatial = args.setdefault("SPATIAL", True)
+        self.S = args.setdefault("MD_S", 1)            # Số lượng phân đoạn (segments)
+        self.D = args.setdefault("MD_D", 512)          # Số chiều đặc trưng (feature dimension)
+        self.R = args.setdefault("MD_R", 64)           # Hạng (rank) trong phân rã ma trận
 
-        self.S = args.setdefault("MD_S", 1)
-        self.D = args.setdefault("MD_D", 512)
-        self.R = args.setdefault("MD_R", 64)
+        self.train_steps = args.setdefault("TRAIN_STEPS", 6)  # Số bước cập nhật khi training
+        self.eval_steps = args.setdefault("EVAL_STEPS", 7)    # Số bước cập nhật khi inference
 
-        self.train_steps = args.setdefault("TRAIN_STEPS", 6)
-        self.eval_steps = args.setdefault("EVAL_STEPS", 7)
+        self.inv_t = args.setdefault("INV_T", 100)     # Hệ số nhiệt nghịch đảo (temperature)
+        self.eta = args.setdefault("ETA", 0.9)         # Tốc độ cập nhật (chưa dùng trong đoạn này)
+        self.rand_init = args.setdefault("RAND_INIT", True)  # Khởi tạo ngẫu nhiên hay không
 
-        self.inv_t = args.setdefault("INV_T", 100)
-        self.eta = args.setdefault("ETA", 0.9)
-
-        self.rand_init = args.setdefault("RAND_INIT", True)
-
+        # In các cấu hình ra màn hình để kiểm tra
         print("spatial", self.spatial)
         print("S", self.S)
         print("D", self.D)
@@ -213,4 +213,5 @@ class LightHamHead(BaseDecodeHead):
         x = self.hamburger(x)
 
         output = self.align(x)
+        output = self.conv_out(output)
         return output
