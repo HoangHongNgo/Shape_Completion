@@ -17,6 +17,36 @@ warnings.simplefilter("ignore", (UserWarning, FutureWarning, RuntimeWarning))
 # from torchvision import transforms
 pred_vec = False
 
+def ssd2pointcloud_torch(cloud, mask, diff, format='img_rear'):
+    """
+    cloud: torch.Tensor of shape [H, W, 3]
+    mask: torch.Tensor of shape [H, W]
+    diff: torch.Tensor of shape [H, W]
+    """
+    # Ensure types
+    cloud = cloud.float()
+    mask = mask.float()
+    diff = diff.float()
+
+    mask_obj = (mask > 0).unsqueeze(2).float()  # shape [H, W, 1]
+
+    # Compute unit vectors
+    uv = torch.sqrt(torch.sum(cloud ** 2, dim=2, keepdim=True))  # [H, W, 1]
+    uv = cloud / uv.clamp(min=1e-6)  # Avoid division by zero
+    uv[uv != uv] = 0  # Remove NaNs
+
+    # Compute front view shift
+    fr = uv * diff.unsqueeze(2)  # [H, W, 3]
+    cr = (cloud + fr) * mask_obj
+    cloudm = cloud * mask_obj
+
+    obj_pt = torch.cat([cr.reshape(-1, 3), cloud.reshape(-1, 3)], dim=0)  # Not used unless you want it
+
+    if format == 'img_rear':
+        return cr
+    elif format == 'cloud_rear':
+        return cr.reshape(-1, 3)
+
 def main(hp, num_epochs, resume, name):
 
     checkpoint_dir = "{}/{}".format(hp.checkpoints, name)
@@ -36,13 +66,11 @@ def main(hp, num_epochs, resume, name):
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     # device = torch.device("cpu")
     model.to(device)
-    # set up binary cross entropy and dice loss
+ 
     criterion_SS = metrics.SS_Loss()
     criterion_CM = metrics.COMAP_Loss()
+    criterion_PC = metrics.PC_Error()
 
-    # optimizer
-    # optimizer = optim.SGD(model.parameters(), lr=learning_rate, momentum=momentum, nesterov=True)
-    # optimizer = optim.Adam(model.parameters(), lr=learning_rate, weight_decay=1e-5)
     optimizer = torch.optim.Adam(model.parameters(), lr=hp.lr)
 
     # decay LR
@@ -75,10 +103,10 @@ def main(hp, num_epochs, resume, name):
     # get data
     if hp.PLUS:
         training_set = SSCM_dataloader.SSCM_dataset(
-            hp.gn_root, hp.camera, rgb_only=False, pred_depth=True, d_min=168, d_max=733)
+            hp.gn_root, hp.camera, rgb_only=False, pred_depth=True)
         
         validation_set = SSCM_dataloader.SSCM_dataset(
-            hp.gn_root, hp.camera, split='valid', rgb_only=False, pred_depth=True, d_min=168, d_max=733)
+            hp.gn_root, hp.camera, split='valid', rgb_only=False, pred_depth=True)
     else:
         training_set = SSCM_dataloader.SSCM_dataset(
             hp.gn_root, hp.camera, rgb_only=False, pred_depth=False, pred_cloud=True)
@@ -175,8 +203,7 @@ def main(hp, num_epochs, resume, name):
         torch.cuda.empty_cache()
         if epoch % hp.validation_interval == 0:
             valid_metrics = validation(
-                val_dataloader, model, [criterion_SS,
-                                        criterion_CM], writer, step, device
+                val_dataloader, model, criterion_PC, writer, step, device
             )
             save_path = os.path.join(
                 checkpoint_dir, "%s_checkpoint_%04d.pt" % (name, epoch+1)
@@ -199,13 +226,12 @@ def main(hp, num_epochs, resume, name):
         lr_scheduler.step()
 
 
-def validation(valid_loader, model, criterions, logger, step, device):
+def validation(valid_loader, model, criterion, logger, step, device):
 
     # logging accuracy and loss
     # valid_acc = metrics.MetricTracker()
     valid_loss = metrics.MetricTracker()
-    loss_ss = metrics.MetricTracker()
-    loss_cm = metrics.MetricTracker()
+    pc_error = metrics.MetricTracker()
     object_list = SSCM_dataloader.object_list
 
     # switch to evaluate mode
@@ -222,16 +248,27 @@ def validation(valid_loader, model, criterions, logger, step, device):
 
         outputs = model(inputs)
         # outputs = torch.nn.functional.sigmoid(outputs)
-        SS = outputs[:, :len(object_list), ...]
-        CM = outputs[:, len(object_list):, ...]
+        SM = outputs[:, :len(object_list), ...]
+        diff = outputs[:, len(object_list):, ...]
         if pred_vec:
             CM = FR_CLOUD + CM
         SS_L = labels[:, 0, ...]
         # CM_L = labels[:, 1:, ...]
 
-        l_ss = criterions[0](SS, SS_L)
-        l_cm = criterions[1](CM, labels, use_mask=True)
-        loss = l_ss + 50*l_cm
+        # l_ss = criterions[0](SS, SS_L)
+        # l_cm = criterions[1](CM, labels, use_mask=True)
+        # loss = l_ss + 50*l_cm
+
+        probs = torch.softmax(SM, dim=1)
+        class_masks = (probs > 0.5).float()
+        segMask_pre = torch.argmax(class_masks, dim=1)
+        segMask_pre = torch.squeeze(segMask_pre)
+
+        diff = torch.squeeze(diff)
+        diff = diff * (segMask_pre > 0).float()
+        rear_pt_pre = ssd2pointcloud_torch(FR_CLOUD, segMask_pre, diff)
+
+        l_pc = criterion()
 
         valid_loss.update(loss.data.item(), outputs.size(0))
         loss_ss.update(l_ss.data.item(), outputs.size(0))

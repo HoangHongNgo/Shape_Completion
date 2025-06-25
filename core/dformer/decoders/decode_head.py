@@ -53,7 +53,6 @@ class BaseDecodeHead(BaseModule, metaclass=ABCMeta):
         in_channels,
         channels,
         *,
-        num_classes,
         dropout_ratio=0.1,
         conv_cfg=None,
         norm_cfg=None,
@@ -67,7 +66,6 @@ class BaseDecodeHead(BaseModule, metaclass=ABCMeta):
         super(BaseDecodeHead, self).__init__(init_cfg)
         self._init_inputs(in_channels, in_index, input_transform)
         self.channels = channels
-        self.num_classes = num_classes
         self.dropout_ratio = dropout_ratio
         self.conv_cfg = conv_cfg
         self.norm_cfg = norm_cfg
@@ -76,6 +74,7 @@ class BaseDecodeHead(BaseModule, metaclass=ABCMeta):
 
         self.ignore_index = ignore_index
         self.align_corners = align_corners
+        self.conv_out = nn.Conv2d(channels, 1, kernel_size=1)
 
         # if isinstance(loss_decode, dict):
         #     self.loss_decode = build_loss(loss_decode)
@@ -92,7 +91,6 @@ class BaseDecodeHead(BaseModule, metaclass=ABCMeta):
         # else:
         #     self.sampler = None
 
-        self.conv_seg = nn.Conv2d(channels, num_classes, kernel_size=1)
         if dropout_ratio > 0:
             self.dropout = nn.Dropout2d(dropout_ratio)
         else:
@@ -166,6 +164,7 @@ class BaseDecodeHead(BaseModule, metaclass=ABCMeta):
             ]
             inputs = torch.cat(upsampled_inputs, dim=1)
         elif self.input_transform == "multiple_select":
+            print("self.in_index", self.in_index)
             inputs = [inputs[i] for i in self.in_index]
         else:
             inputs = inputs[self.in_index]
@@ -178,39 +177,3 @@ class BaseDecodeHead(BaseModule, metaclass=ABCMeta):
         """Placeholder of forward function."""
         pass
 
-    def forward_train(self, inputs, img_metas, gt_semantic_seg, train_cfg):
-        """Forward function for training.
-        Args:
-            inputs (list[Tensor]): List of multi-level img features.
-            img_metas (list[dict]): List of image info dict where each dict
-                has: 'img_shape', 'scale_factor', 'flip', and may also contain
-                'filename', 'ori_shape', 'pad_shape', and 'img_norm_cfg'.
-                For details on the values of these keys see
-                `mmseg/datasets/pipelines/formatting.py:Collect`.
-            gt_semantic_seg (Tensor): Semantic segmentation masks
-                used if the architecture supports semantic segmentation task.
-            train_cfg (dict): The training config.
-
-        Returns:
-            dict[str, Tensor]: a dictionary of loss components
-        """
-        seg_logits = self.forward(inputs)
-        losses = self.losses(seg_logits, gt_semantic_seg)
-        return losses
-
-    def forward_test(self, inputs, img_metas, test_cfg):
-        """Forward function for testing.
-
-        Args:
-            inputs (list[Tensor]): List of multi-level img features.
-            img_metas (list[dict]): List of image info dict where each dict
-                has: 'img_shape', 'scale_factor', 'flip', and may also contain
-                'filename', 'ori_shape', 'pad_shape', and 'img_norm_cfg'.
-                For details on the values of these keys see
-                `mmseg/datasets/pipelines/formatting.py:Collect`.
-            test_cfg (dict): The testing config.
-
-        Returns:
-            Tensor: Output segmentation map.
-        """
-        return self.forward(inputs)
